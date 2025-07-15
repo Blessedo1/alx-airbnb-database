@@ -1,5 +1,4 @@
 https://dbdiagram.io/d/AirBnb-ERD-6869139bf413ba350869bb78
- HEAD
 ![AirBnb ERD](https://github.com/user-attachments/assets/a23f6b23-befe-4d1d-a1cc-c9b5842113d5):
 ![AirBnb ERD](https://github.com/user-attachments/assets/a23f6b23-befe-4d1d-a1cc-c9b5842113d5)
 
@@ -64,4 +63,4 @@ Table Message {
 
 Relationships between entities:
 User(one to many): A user can host many properties, can have many bookings, can review as many properties and send and receive many messages.
-Property(one to many): A property can have many reviews as well as many bookings at different dates. da9da7abd580492aa89c4a914981ba40309930ca
+Property(one to many): A property can have many reviews as well as many bookings at different dates.
